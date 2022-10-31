@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CompleteTaskView: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
